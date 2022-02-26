@@ -1,0 +1,87 @@
+/* * {
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+  padding-top: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App {
+  width: 440px;
+  border: 1px solid #aaa;
+  min-height: 300px;
+  padding: 20px;
+}
+.App h1 {
+  text-align: center;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.input input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+.input button {
+  margin-left: 4px;
+  padding: 4px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+  background-color: #fff;
+  cursor: pointer;
+}
+ul {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+li {
+  list-style: none;
+  width: 120px;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  cursor: pointer;
+  margin-left: 4px;
+}
+.content__area {
+  display: flex;
+  align-items: center;
+}
+.content__area p {
+  margin-left: 8px;
+}
+.edit__area button {
+  padding: 4px;
+  margin-left: 8px;
+}
+.item {
+  display: flex;
+  margin-top: 10px;
+  background-color: #ddd;
+  padding: 14px;
+  justify-content: space-between;
+}
+.active {
+  background-color: #faa;
+} */
+
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
